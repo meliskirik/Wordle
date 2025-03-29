@@ -11,7 +11,9 @@ After each guess, the game provides text-based feedback for each letter in the w
 ## 🧠 Feedback System
 
 "letter exists and located in right position" → ✅ The letter is correct and in the correct place
+
 "letter exists but located in wrong position" → 🔄 The letter is in the word but in a different place
+
 "letter does not exist" → ❌ The letter is not in the word at all
 
 ---
